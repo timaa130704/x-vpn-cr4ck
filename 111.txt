@@ -1,6 +1,6 @@
 #profile-title: base64:WC1WUE4=
 #profile-update-interval: 1
-#subscription-userinfo: upload=0; download=3362933327; total=1597729905664; expire=1791052486
+#subscription-userinfo: upload=0; download=3362933327; total=1597729905664; expire=407672284800
 #profile-web-page-url: https://x-vare.com
 #support-url: https://x-vare.com/cabinet
 #announce: base64:0KDQpCAoLnJ1INC4INC60YDRg9C/0L3Ri9C1INGA0L7RgdGB0LjQudGB0LrQuNC1INGB0LXRgNCy0LjRgdGLIC8g0YLQvtGA0YDQtdC90YIpIOKAlCDQvdCw0L/RgNGP0LzRg9GOLiDQnNC+0LHQuNC70YzQvdGL0Lkg0L7QsdGF0L7QtDog0YPQt9C10Lsg0KDQvtGB0YHQuNGPLiDQntC30L7QvSDQuCDQktCRIOKAlCDQsdC10LcgVlBOLg==
